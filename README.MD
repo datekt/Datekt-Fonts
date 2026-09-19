@@ -1,6 +1,6 @@
 # Datekt Font
 
-An open-source typeface developed under the **Datekt Consortium**. Designed perfectly for both headlines and body text.
+An open-source typeface developed under the **Datekt Media**. Designed perfectly for both headlines and body text.
 
 ## Previews
 
@@ -32,4 +32,4 @@ This Font Software is licensed under the **SIL Open Font License, Version 1.1**.
 For full details, please refer to the `OFL.txt` file in this repository.
 
 ---
-© 2026 The Datekt Consortium
+© 2026 The Datekt Media
